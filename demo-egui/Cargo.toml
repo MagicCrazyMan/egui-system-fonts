@@ -5,7 +5,7 @@ edition = "2021"
 publish = false
 
 [dependencies]
-eframe = "0.36"
+eframe = "0.37"
 log = "0.4"
 egui-system-fonts = { path = "../egui-system-fonts" }
 
